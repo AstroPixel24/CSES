@@ -1,4 +1,4 @@
-// CSES Introductory Problems - Two Sets
+// CSES Introductory Problems - Coin Piles
 
 #include <iostream>
 using namespace std;
