@@ -13,6 +13,6 @@ Introductory Problems:
 8. Two Sets - twosets.cpp
 9. Bit Strings - bitstrings.cpp
 10. Trailing Zeros - trailingzeros.cpp
-11. Coin Piles
+11. Coin Piles - coinpiles.cpp
 12. Palindrome Reader
 13. Gray Code
