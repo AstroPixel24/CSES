@@ -9,7 +9,7 @@ Introductory Problems:
 4. Increasing Array - increasingarray.cpp
 5. Permutations - permutations.cpp
 6. Number Spiral - numberspiral.cpp
-7. Two Knights
+7. Two Knights - twoknights.cpp
 8. Two Sets
 9. Bit Strings - bitstrings.cpp
 10. Trailing Zeros - trailingzeros.cpp
