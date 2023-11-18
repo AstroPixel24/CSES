@@ -1,3 +1,15 @@
 # CSES
-This repository contains my solutions to the problems in the CSES Problem Set, a collection of competitive programming exercises designed to improve algorithmic skills.
+This repository contains my solutions to the introductory problems (so far) in the CSES Problem Set, a collection of competitive programming exercises designed to improve algorithmic skills.
 https://cses.fi/problemset/
+
+Introductory Problems:
+1. Weird Algorithm - weirdalgorithm.cpp
+2. Missing Number - missingnumber.cpp
+3. Repetitions - repetitions.cpp
+4. Increasing Array - increasingarray.cpp
+5. Permutations - permutations.cpp
+6. Number Spiral - numberspiral.cpp
+7. Two Knights
+8. Two Sets
+9. Bit Strings - bitstrings.cpp
+10. Trailing Zeros - trailingzeros.cpp
